@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-print("Hello world";)
-print("Hello everybody";)
-print("Hello brotherhood of steel";)
-print("Hello my dear friend";)
-print("Glad to see you";)
